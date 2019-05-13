@@ -1,0 +1,6 @@
+.delete-button {
+  float: right;
+  color: #e74944;
+  font-weight:  bolder;
+  cursor: crosshair;
+}
