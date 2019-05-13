@@ -1,6 +1,6 @@
-# ** Books React App **
+# **Books React App**
 
-## * React.js / MongoDB Web App *
+## *React.js / MongoDB Web App*
 
 * Project source can be downloaded from: https://github.com/ahs012/booksReact.git 
 
