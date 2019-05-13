@@ -3,7 +3,6 @@
 ## *React.js/MongoDB/Express Web App*
 
 * Project source can be downloaded from: https://github.com/ahs012/booksReact.git 
-
 ---
 
 ## Purpose of Books React App
@@ -21,7 +20,7 @@ React-based Google Books Search appwith the use of React components, and Mongoos
 
 ## Live Instance 
 
-* [Click here for Live Instance on Heroku](https://firebase.google.com) - Real-Time Database 
+* [Click here for Youtube Video Demo](https://youtu.be/wCfgKNIRCn0) - Video Demo Until Heroku Deployment Successfull
 ---
 
 ## Technologies Used

@@ -15,7 +15,7 @@ const BookDetails = props => {
       <div className = "col-md-8" style = {{float: "right", marginTop: "20px" }}>
         <p style = {{ marginBottom: "30px"}}><strong>Description: </strong> {props.description}</p>
       </div>
-      <hr/>
+      <hr style = {{ clear: "both" }} />
     </span>
   );
 }
