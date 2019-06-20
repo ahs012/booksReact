@@ -4,7 +4,6 @@ import axios from "axios";
 const BASEURL = "https://www.googleapis.com/books/v1/volumes?q=";
 
 export default {
-  
   // Gets all Books 
   getAllBooks: function() {
     return axios.get("/api/books");

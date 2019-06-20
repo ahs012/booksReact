@@ -23,3 +23,9 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/googleBooksReac
 app.listen(PORT, function() {
   console.log(`API Server now listening on PORT:  ${PORT}!`);
 });
+
+
+//TODO
+//Fix Front end for Booksview
+// Add GoogleAPI Books to be saved to list
+// Host on Github, heroku + react = no
